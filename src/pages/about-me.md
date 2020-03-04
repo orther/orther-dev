@@ -1,7 +1,7 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: Start Here
+subtitle: Hi, I'm Brandon Orther. I am a software developer from San Diego, California.
+img_path: "/images/IMG_20170913_153123_325.jpg"
 menus:
   main:
     title: About
