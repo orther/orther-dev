@@ -4,7 +4,7 @@ sections:
 - type: intro
   template: intro
   title: Start Here
-  section_id: introd
+  section_id: intro
   component: Intro
   content: |-
     # Hi, I'm Brandon Orther.
