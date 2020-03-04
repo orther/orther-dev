@@ -7,11 +7,11 @@ sections:
   section_id: intro
   component: Intro
   content: |-
-    # Hi, I'm Brandon Orther.
-
-    ![A selfie taken by Brandon Orther showing him sitting in front seat with his dog behind him in the back of the car.](/images/IMG_20170913_153123_325.jpg "Brandon car selfie")
-
-    This is the "about" excerpt. It can be used to provide a paragraph about yourself that people can read on the homepage to get a sense of who you are. There also exists a dedicated about page where you can write more about yourself for those who are interested.
+    > # Hi, I'm Brandon Orther.
+    >
+    > ![A selfie taken by Brandon Orther showing him sitting in front seat with his dog behind him in the back of the car.](/images/IMG_20170913_153123_325.jpg "Brandon car selfie")
+    >
+    > This is the "about" excerpt. It can be used to provide a paragraph about yourself that people can read on the homepage to get a sense of who you are. There also exists a dedicated about page where you can write more about yourself for those who are interested.
   actions:
   - label: Start Here
     url: "/start-here"
