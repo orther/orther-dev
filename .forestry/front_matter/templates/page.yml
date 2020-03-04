@@ -24,6 +24,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/about-me.md
 - src/pages/about.md
+- src/pages/start-here.md
 - src/pages/style-guide.md
